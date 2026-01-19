@@ -15,14 +15,13 @@
 
 ---
 
-## 👨‍💻 About Me
-I'm Deepak Kumar Gupta, a passionate **Frontend Developer & Software Engineer** with a **B.Tech in CSE**, exploring **full-stack development with MERN**.  
+## 👨‍💻 About Me  
+I'm **Deepak Kumar Gupta**, a passionate **Software Engineer specializing in Frontend Development** with a **B.Tech in Computer Science & Engineering**. I have hands-on experience in **full-stack development using the MERN stack and Tailwind CSS**, and I enjoy building scalable, user-focused web applications.
 
-- 🌱 Currently learning **React, Express.js, MongoDB**  
-- 🔭 Building and deploying **real-world web applications**  
-- 💡 Completed a **3-month Flutter internship** and a **45-day DSA challenge**  
-- 📚 In my free time, I enjoy **reading Hindi books** and sharing knowledge with my community  
-
+- 🌱 Currently learning **Next.js**
+- 🔭 Building and deploying **real-world web applications**
+- 💡 Completed a **3-month Flutter internship** and a **45-day DSA challenge**
+- 📚 In my free time, I enjoy **reading Hindi books** and sharing knowledge with my community
 ---
 
 ## 🛠️ Languages and Tools  
